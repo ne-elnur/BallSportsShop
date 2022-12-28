@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebed970a-8302-44ec-b905-84296d20c622" name="Changes" comment="first">
+    <list default="true" id="ebed970a-8302-44ec-b905-84296d20c622" name="Changes" comment="base for back">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/validations/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +125,7 @@
       <workItem from="1671971136906" duration="1919000" />
       <workItem from="1671999752513" duration="4111000" />
       <workItem from="1672004860540" duration="11206000" />
-      <workItem from="1672161021960" duration="4036000" />
+      <workItem from="1672161021960" duration="13826000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1671999349239</created>
@@ -131,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671999349239</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="base for back">
+      <created>1672165499733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672165499733</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="base for back" />
+    <option name="LAST_COMMIT_MESSAGE" value="base for back" />
   </component>
 </project>
