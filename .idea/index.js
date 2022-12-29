@@ -4,7 +4,7 @@ import bcrypt from 'bcrypt';
 import mongoose from 'mongoose';
 import { validationResult } from 'express-validator';
 
-import { registerValidation } from './validations/auth.js';
+import { registerValidation, loginValidation } from './validations/auth.js';
 
 import UserModel from './modules/User.js';
 import checkAuth from './utils/checkAuth.js';
